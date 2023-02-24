@@ -2,4 +2,4 @@
 
 A web calculator coded in HTML, CSS & JS!
 
-Code writen by pando ;)
+Code written by pando ;)
